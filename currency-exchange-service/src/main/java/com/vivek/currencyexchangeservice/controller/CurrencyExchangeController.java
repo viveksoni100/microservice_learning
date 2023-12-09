@@ -2,7 +2,6 @@ package com.vivek.currencyexchangeservice.controller;
 
 import com.vivek.currencyexchangeservice.entity.CurrencyExchange;
 import com.vivek.currencyexchangeservice.repository.CurrencyExchangeRepository;
-import org.bouncycastle.pqc.legacy.crypto.rainbow.util.RainbowUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;
 import org.springframework.web.bind.annotation.GetMapping;
